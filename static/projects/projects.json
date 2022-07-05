@@ -2,7 +2,7 @@
   "projects": [
     {
       "name": "Secret Santa Website",
-      "link": "Freya-gravity",
+      "link": "SecretSantaWebsite",
       "date": "November 2021  - November 2021",
       "short": "A secret santa gift inspired by google gravity",
       "status": "complete",
@@ -14,7 +14,7 @@
         "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/kCNZ5XajM8I\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
       ],
       "photos": [
-        "/static/projects/Freya-gravity/Secret-santa.png"
+        "/static/projects/SecretSantaWebsite/SecretSanta.png"
       ],
       "github": "https://github.com/bensonchow123/secret-santa-website"
     },
@@ -56,8 +56,8 @@
       ]
     },
     {
-      "name": "MineZone bot",
-      "link": "MineZoneBot",
+      "name": "Seraphine",
+      "link": "Seraphine",
       "date": "June 2021  - Ongoing",
       "short": "A Discord bot designed to improve activity within MineZone and allow users to connect to minecraft within the discord server",
       "status": "ongoing",
@@ -67,8 +67,8 @@
         "Ai"
       ],
       "photos": [
-        "/static/projects/MineZoneBot/MineZone.jpg",
-        "/static/projects/MineZoneBot/chatbot.jpg"
+        "/static/projects/Seraphine/Seraphine.png",
+        "/static/projects/Seraphine/chatbot.jpg"
       ],
       "github": "https://github.com/bensonchow123/MineZone"
     },
